@@ -3,12 +3,14 @@ define({
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
     "appid": "",
-    "webmap": "6b8a234fda664b2093a8963bc2224624",
+    // "webmap": "6b8a234fda664b2093a8963bc2224624",
+    "webmap": "4c99376c362f4c20bb8b8af0cc072401",
+    // http://geoplatform.maps.arcgis.com/apps/GeoForm/index.html?appid=4c99376c362f4c20bb8b8af0cc072401
     "form_layer": {
         "id": "Distress_Notifications_1454"
     },
     "details": {
-        "Title": "Search and Rescue",
+        "Title": "Distress Observation Form",
         "Logo": "",
         "Description": ""
     },
